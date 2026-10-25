@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://insup.co.kr/</loc>
-    <lastmod>2025-07-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://insup.co.kr/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/guide/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/guide/account-activation-meaning/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/guide/choosing-agency-checklist/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/guide/hashtag-keyword-guide/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/guide/reels-planning-checklist/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/guide/what-is-popular-post/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/industry/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/industry/academy/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/industry/cafe/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/industry/hospital/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/industry/real-estate/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/industry/restaurant/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/industry/shopping/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/services/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/services/account-optimization/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/services/popular-posts/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://insup.co.kr/services/reels/</loc><lastmod>2026-10-25</lastmod></url>
 </urlset>
