@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44">
+  <defs><linearGradient id="ig" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#2554E0"/><stop offset="35%" stop-color="#7B2FF7"/><stop offset="65%" stop-color="#E1306C"/><stop offset="100%" stop-color="#FF8A3D"/></linearGradient></defs>
+  <circle cx="22" cy="22" r="21" fill="url(#ig)"/>
+  <ellipse cx="16" cy="10" rx="4" ry="2.2" fill="#FFFFFF" opacity="0.35" transform="rotate(-30 16 10)"/>
+  <rect x="13" y="26" width="5" height="9" rx="1.2" fill="#FFFFFF"/>
+  <rect x="19.5" y="19" width="5" height="16" rx="1.2" fill="#FFFFFF"/>
+  <rect x="26" y="10" width="5" height="25" rx="1.2" fill="#FFFFFF"/>
+</svg>
